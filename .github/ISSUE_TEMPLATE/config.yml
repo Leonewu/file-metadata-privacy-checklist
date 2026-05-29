@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: MetadataRemove
+    url: https://metadataremove.app
+    about: Use the browser based metadata remover.
+  - name: Full checklist
+    url: https://metadataremove.app/file-metadata-privacy-checklist
+    about: Read the full file metadata privacy checklist.
