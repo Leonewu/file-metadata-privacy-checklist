@@ -28,14 +28,15 @@ Metadata removal is not the same as redaction. You should review visible content
 5. Share the cleaned copy.
 6. Keep the original private if you still need archival metadata.
 
-## Browser based metadata remover
-
-If you need to clean files before sharing them, you can use MetadataRemove:
-
-https://metadataremove.app
-
 It removes hidden metadata from supported files directly in your browser, without uploading private files to a server.
 
 ## More detailed checklist
 
 https://metadataremove.app/file-metadata-privacy-checklist
+
+
+## Browser based metadata remover
+
+If you need to clean files before sharing them, you can use MetadataRemove:
+
+https://metadataremove.app
