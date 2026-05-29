@@ -40,3 +40,10 @@ https://metadataremove.app/file-metadata-privacy-checklist
 If you need to clean files before sharing them, you can use MetadataRemove:
 
 https://metadataremove.app
+
+
+
+## License
+
+This checklist is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+You may share, adapt, or reuse it with attribution.
