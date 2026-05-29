@@ -42,6 +42,19 @@ If you need to clean files before sharing them, you can use MetadataRemove:
 https://metadataremove.app
 
 
+## Contributing
+
+Suggestions are welcome.
+
+You can open an issue to:
+
+- Add a missing file type
+- Suggest a metadata field
+- Correct unclear or outdated information
+- Share a source or example related to file metadata privacy
+
+This project is focused on practical file metadata privacy before sharing files.
+
 
 ## License
 
